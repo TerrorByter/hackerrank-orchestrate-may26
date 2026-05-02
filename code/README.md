@@ -188,8 +188,22 @@ back to a cross-domain search to avoid silent context starvation
 ### Caching
 
 The FAISS index, embeddings, document metadata, and BM25 corpus are cached to
-disk under `data/index/<model_name>/`. Subsequent runs load from cache (~1s)
-instead of re-embedding (~5min).
+disk under `data/index/<model_name>/`. Subsequent runs load from cache (~8s)
+instead of re-embedding.
+
+**First run only:**
+
+1. `BAAI/bge-large-en-v1.5` (~1.3 GB) is downloaded automatically from
+   HuggingFace — requires an internet connection.
+2. All 4,437 document chunks are embedded — takes **~9 minutes** on CPU.
+3. The cache is saved to `data/index/bge-large-en-v1_5/`. Every run after
+   that skips both steps and starts in ~8 seconds.
+
+To pre-build the cache before running on tickets:
+
+```bash
+python main.py --sample   # builds cache, then processes 10 sample tickets
+```
 
 ---
 
