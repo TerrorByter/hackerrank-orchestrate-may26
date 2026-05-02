@@ -1,0 +1,376 @@
+==========================================================================================
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+  RETRIEVAL BENCHMARK: all-MiniLM-L6-v2  vs  BAAI/bge-large-en-v1.5
+=
+
+  Index build time — all-MiniLM-L6-v2: 24.8s | bge-large-en-v1.5: 612.3s
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  [HR-1] Apply tab not visible  (domain: hackerrank)
+  Query: "i can not able to see apply tab"
+
+  #   MiniLM (score)         bge-large (score)     
+      all-MiniLM-L6-v2       bge-large-en-v1.5     
+  ─── ─────────────────────────────────────────── ───────────────────────────────────────────
+  1. [0.517] Notification                           [0.619] Notification
+             Additional Resources                           Additional Resources
+
+  2. [0.454] January 2024 Release Notes             [0.616] Taleo
+             General Help > Release Notes                   Applicant Tracking Systems > Taleo
+
+  3. [0.401] Hide Locked Tabs in Interviews Key     [0.606] Set Up HackerRank QuickApply
+             Interviews > Interview Settings                Additional Resources > Job Search and Ap
+
+  Query latency — all-MiniLM-L6-v2: 1364ms | bge-large-en-v1.5: 330ms
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  [HR-2] Zoom compatibility blocker  (domain: hackerrank)
+  Query: "I am facing a blocker while doing compatible check, all the criterias are matching other than zoom"
+
+  #   MiniLM (score)         bge-large (score)     
+      all-MiniLM-L6-v2       bge-large-en-v1.5     
+  ─── ─────────────────────────────────────────── ───────────────────────────────────────────
+  1. [0.410] Review Integrity Issues in Proctor     [0.691] Audio and Video Calls in Interviews
+             Screen > Test Integrity                        Interviews > Getting Started
+
+  2. [0.407] Proctor Mode Enable Proctor Mode Pr    [0.626] April 2026 Release Notes Screen Int
+             Screen > Test Integrity                        General Help > Release Notes
+
+  3. [0.398] Evaluate Integrity Signals for Flag    [0.620] April 2024 Release Notes
+             Screen > Test Integrity                        General Help > Release Notes
+
+  Query latency — all-MiniLM-L6-v2: 108ms | bge-large-en-v1.5: 136ms
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  [HR-3] Inactivity timeout settings  (domain: hackerrank)
+  Query: "Can you please confirm the inactivity times currently set and are they different for candidate vs interviewer"
+
+  #   MiniLM (score)         bge-large (score)     
+      all-MiniLM-L6-v2       bge-large-en-v1.5     
+  ─── ─────────────────────────────────────────── ───────────────────────────────────────────
+  1. [0.573] April 2026 Release Notes Screen Int    [0.737] April 2026 Release Notes Screen Int
+             General Help > Release Notes                   General Help > Release Notes
+
+  2. [0.535] January 2026 Release Notes Screen S    [0.733] October 2025 Release Notes Screen S
+             General Help > Release Notes                   General Help > Release Notes
+
+  3. [0.535] April 2026 Release Notes Screen Int    [0.728] HackerRank Maintenance Window Notif
+             General Help > Release Notes                   General Help > Important Notifications
+
+  Query latency — all-MiniLM-L6-v2: 8ms | bge-large-en-v1.5: 20ms
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  [HR-4] Remove interviewer from platform  (domain: hackerrank)
+  Query: "I am trying to remove an interviewer from the platform. I am not seeing this as an option when I click on their profile"
+
+  #   MiniLM (score)         bge-large (score)     
+      all-MiniLM-L6-v2       bge-large-en-v1.5     
+  ─── ─────────────────────────────────────────── ───────────────────────────────────────────
+  1. [0.581] Manage Interviews Templates Creatin    [0.723] Manage Interviews Templates Creatin
+             Interviews > Manage Interviews                 Interviews > Manage Interviews
+
+  2. [0.581] Deleting Interview Questions           [0.716] Delete an Interview Prerequisites D
+             Interviews > Manage Interviews                 Interviews > Manage Interviews
+
+  3. [0.557] Manage Interviews Templates Creatin    [0.696] Manage Interviews Templates Creatin
+             Interviews > Manage Interviews                 Interviews > Manage Interviews
+
+  Query latency — all-MiniLM-L6-v2: 30ms | bge-large-en-v1.5: 30ms
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  [CL-1] Stop Claude crawling website  (domain: claude)
+  Query: "I want Claude to stop crawling my website"
+
+  #   MiniLM (score)         bge-large (score)     
+      all-MiniLM-L6-v2       bge-large-en-v1.5     
+  ─── ─────────────────────────────────────────── ───────────────────────────────────────────
+  1. [0.583] Reporting, Blocking, and Removing C    [0.722] Does Anthropic crawl data from the 
+             Privacy and legal                              Privacy and legal
+
+  2. [0.581] Reporting, Blocking, and Removing C    [0.719] Does Anthropic crawl data from the 
+             Safeguards                                     Privacy and legal
+
+  3. [0.576] Reporting, Blocking, and Removing C    [0.718] Claude in Chrome Permissions Guide
+             Safeguards                                     Claude in Chrome
+
+  Query latency — all-MiniLM-L6-v2: 8ms | bge-large-en-v1.5: 23ms
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  [CL-2] Data retention for model training  (domain: claude)
+  Query: "I am allowing Claude to use my data to improve the models, how long will the data be used for?"
+
+  #   MiniLM (score)         bge-large (score)     
+      all-MiniLM-L6-v2       bge-large-en-v1.5     
+  ─── ─────────────────────────────────────────── ───────────────────────────────────────────
+  1. [0.690] How up-to-date is Claude's training    [0.737] Use Claude for Excel
+             Claude > Get started with Claude               Claude > Features and capabilities
+
+  2. [0.601] How up-to-date is Claude's training    [0.734] How up-to-date is Claude's training
+             Claude > Get started with Claude               Claude > Get started with Claude
+
+  3. [0.525] FAQs on Using Claude for Education     [0.725] Use Claude for Word
+             Claude for Education                           Claude > Features and capabilities
+
+  Query latency — all-MiniLM-L6-v2: 31ms | bge-large-en-v1.5: 31ms
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  [CL-3] AWS Bedrock requests failing  (domain: claude)
+  Query: "I am facing multiple issues in my project, all requests to claude with aws bedrock is failing"
+
+  #   MiniLM (score)         bge-large (score)     
+      all-MiniLM-L6-v2       bge-large-en-v1.5     
+  ─── ─────────────────────────────────────────── ───────────────────────────────────────────
+  1. [0.754] What is Amazon Bedrock?                [0.766] Troubleshoot Claude Code installati
+             Amazon Bedrock                                 Claude Code > Launch guides
+
+  2. [0.743] How do I get access to Claude in Am    [0.729] I use Claude in Amazon Bedrock. Who
+             Amazon Bedrock                                 Amazon Bedrock
+
+  3. [0.734] What AWS Regions are Claude models     [0.722] How do I get access to Claude in Am
+             Amazon Bedrock                                 Amazon Bedrock
+
+  Query latency — all-MiniLM-L6-v2: 25ms | bge-large-en-v1.5: 25ms
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  [CL-4] LTI key setup for students  (domain: claude)
+  Query: "I am a professor in a college and wanted to setup a claude lti key for my students"
+
+  #   MiniLM (score)         bge-large (score)     
+      all-MiniLM-L6-v2       bge-large-en-v1.5     
+  ─── ─────────────────────────────────────────── ───────────────────────────────────────────
+  1. [0.571] Set up the Claude LTI in Canvas by     [0.752] Set up the Claude LTI in Canvas by 
+             Claude for Education                           Claude for Education
+
+  2. [0.511] Set up the Claude LTI in Canvas by     [0.748] Set up the Claude LTI in Canvas by 
+             Claude for Education                           Claude for Education
+
+  3. [0.502] API Key Best Practices: Keeping You    [0.740] Set up the Claude LTI in Canvas by 
+             Claude API and Console > Claude API Usag          Claude for Education
+
+  Query latency — all-MiniLM-L6-v2: 8ms | bge-large-en-v1.5: 20ms
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  [VI-1] ATM / cash advance  (domain: visa)
+  Query: "I need urgent cash but don't have any right now & only the VISA card"
+
+  #   MiniLM (score)         bge-large (score)     
+      all-MiniLM-L6-v2       bge-large-en-v1.5     
+  ─── ─────────────────────────────────────────── ───────────────────────────────────────────
+  1. [0.513] Visa Consumer Support                  [0.685] Visa Travel Services | Visa Travel 
+             visa                                           visa
+
+  2. [0.508] Visa Travel Services | Visa Travel     [0.684] Visa Travel Services | Visa Travel 
+             visa                                           visa
+
+  3. [0.504] Visa Travel Services | Visa Travel     [0.681] Visa Consumer Support
+             visa                                           visa
+
+  Query latency — all-MiniLM-L6-v2: 23ms | bge-large-en-v1.5: 76ms
+
+──────────────────────────────────────────────────────────────────────────────────────────
+  [VI-2] Minimum spend requirement  (domain: visa)
+  Query: "I am in US Virgin Islands and the merchant is saying I have to spend minimum 10$ on my VISA card, is that right"
+
+  #   MiniLM (score)         bge-large (score)     
+      all-MiniLM-L6-v2       bge-large-en-v1.5     
+  ─── ─────────────────────────────────────────── ───────────────────────────────────────────
+  1. [0.695] Visa Consumer Support                  [0.811] Visa Consumer Support
+             visa                                           visa
+
+  2. [0.537] Visa Credit Card Rules & Regulation    [0.687] Visa Travel Services | Visa Travel 
+             visa                                           visa
+
+  3. [0.511] Rules + Interchange                    [0.667] PYB – Fraud Prevention
+             visa                                           visa
+
+  Query latency — all-MiniLM-L6-v2: 6ms | bge-large-en-v1.5: 20ms
+
+==========================================================================================
+  MANUAL SCORING GUIDE
+==========================================================================================
+
+  For each query, rate each model's top-3 on relevance:
+    3 = directly answers the question
+    2 = related / useful context
+    1 = tangentially related
+    0 = irrelevant
+
+  Sum the scores per model across all queries.
+  A difference of 5+ points is a meaningful improvement.
